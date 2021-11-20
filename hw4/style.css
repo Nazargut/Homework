@@ -1,6 +1,6 @@
 
-.a0{height: 1480px;
-    width: 1440px;
+.a0{height: 100%;
+    width: 1480px;
     left: -720px;
     top: -513px;
     border-radius: 0px;
@@ -352,7 +352,7 @@ color: #FFFFFF;
     
     color: #101010;
     }
-.box3text2{position: absolute;
+.box3text{
     width: 96px;
     height: 14px;
     left: 734px;
