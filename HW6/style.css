@@ -326,6 +326,7 @@ flex-wrap: nowrap;
 }
 .small{width: 20px;
     height: 14px;
+    margin-left: 10px;
     }
 /*//////////////////////////////////////////////////////////////////////*/
 .body3{
@@ -660,3 +661,4 @@ padding-bottom: 50px;}
     
     color: #212353;
     }
+.margin156{margin-left: 10px;}
